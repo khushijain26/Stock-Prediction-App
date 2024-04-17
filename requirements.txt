@@ -1,0 +1,6 @@
+streamlit
+numpy
+yfinance
+prophet
+prophet.plot
+plotly
