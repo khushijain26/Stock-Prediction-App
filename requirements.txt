@@ -2,5 +2,5 @@ streamlit
 numpy
 yfinance
 prophet
-prophet.plot
-plotly
+plot_plotly
+graph_objs
